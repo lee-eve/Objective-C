@@ -1,5 +1,5 @@
-学习Objective-C的一些笔记以及代码demo：
-一.Founation框架
+##学习Objective-C的一些笔记以及代码demo：
+**一.**Founation框架
     0.类
     1.字符串：NSString、NSMutableString；
     2.数组：NSArray、NSMutableArray；
